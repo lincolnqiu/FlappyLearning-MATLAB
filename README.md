@@ -27,6 +27,8 @@ Runs well on R2020b.
 The essence of all this is that we abstracted a model from reality(Natural Selection), then conversely what enlightenment can this model tell us?
 I reckon that how a generation of birds fail to pass the next tunnel insinuate the status quo of human breeding, that every tunnel, in our term, is a big problem human is facing, like illness. To break through these problems we have to evolve for a very long period of time. But what if there is a problem human cannot solve? I think there exist 2 possible outcome. 1. We evolve into higher-dimentional creatures, just like Christopher Nolan's *Interstellar*. 2. `regenerateFlag =  True`. Just like dinosaurs.
 
+Albert Einstein one said that "We cannot solve our problems with the same thinking we used when we created them."
+
 
 ## Reference
 Without these my homework wouldn't have been possible. Massive Appreciation.
