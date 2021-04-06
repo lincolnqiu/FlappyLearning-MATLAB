@@ -10,7 +10,7 @@ Runs well on R2020b.
 ## Features
 * Adds variable `regenerateFlag` together with `shitCount`. 
 * Reduced complexity. The structure looks more intuitive. But the network's universality is also reduced, for that certain functions are tailored.
-（Details in ***Detailed Readme.md***)
+* （Details in ***Detailed Readme.md***)
 
 ## Deficiency
 （Details in ***Detailed Readme.md***)
