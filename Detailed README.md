@@ -1,5 +1,5 @@
 # FlappyLearning-MATLAB
-Inspired by [xviniette](https://github.com/xviniette/FlappyLearning). Flappy Bird now learns and flys in MATLAB. [Demo(bilibili.com)](https://www.bilibili.com/video/BV1xy4y1i73s/)  
+Inspired by [xviniette](https://github.com/xviniette/FlappyLearning). Flappy Bird now learns and flys in MATLAB. With Neuroevolution. [Demo(bilibili.com)](https://www.bilibili.com/video/BV1xy4y1i73s/)  
 
 ![alt tag](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Screenshot.png)  
 
