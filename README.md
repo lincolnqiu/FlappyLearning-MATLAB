@@ -20,7 +20,7 @@ Runs well on R2020b.
 * `NeuroEvo.elitism`, `NeuroEvo.randomBehaviour` should be dynamic and alter with respect to the derivative of `Game.maxScore`. Probably.
 * Input parameters could be improved. Maybe adding the distance between the bird and the next pipe will lead to a faster convergence process.
 ![alt tag](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Illustration.png)
-(Image in courtesy of[xviniette - FlappyLearning](https://github.com/xviniette/FlappyLearning))
+(Image in courtesy of [xviniette - FlappyLearning](https://github.com/xviniette/FlappyLearning))
 
 
 ## Random Thoughts
