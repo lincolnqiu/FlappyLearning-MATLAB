@@ -41,4 +41,4 @@ Without these my homework wouldn't have been possible. Massive Appreciation.
 
 ## Author
 Qiu Yining, a freshman majoring in mathematics *@Shanghai University of Finance and Economics*.  
-Personal Mailbox: *linconqiu@gmail.com*
+Personal Mailbox: *lincolnqiu@gmail.com*
