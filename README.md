@@ -10,14 +10,14 @@ Runs well on R2020b.
 ## Features
 * Adds variable `regenerateFlag` together with `shitCount`. 
 * Reduced complexity. The structure looks more intuitive. But the network's universality is also reduced, for that certain functions are tailored.
-* （Details in ***Detailed Readme.md***)
+* （Details in [Detailed Readme.md](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Detailed%20README.md))
 
 ## Deficiency
-（Details in ***Detailed Readme.md***)
+（Details in [Detailed Readme.md](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Detailed%20README.md))
 
 
 ## Random Thoughts
-（Details in ***Detailed Readme.md***)
+（Details in [Detailed Readme.md](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Detailed%20README.md))
 
 
 ## Reference
