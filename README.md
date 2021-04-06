@@ -10,7 +10,7 @@ The project features certain improvements, but it generally converges slower tha
 Runs well on R2020b.  
 
 ## Features
-* Adds variable `regenerateFlag` together with `shitCount`. The core idea is to prevent underfitting. The training time of neuroevolution depends largely on the initial weights. With a poorly-initialized weights you may have a hundred of generations cannot pass the first tunnel. Therefore, `shitCount` counts these aren't-so-smart generations and if it hits a constant, say, 20, it will set `regenerateFlag` to `True` where the next generation will operate on a set of newly-initialized weights.
+* Adds variable `regenerateFlag` together with `shitCount`. The core idea is to prevent underfitting. The training time of neuroevolution depends largely on the initial weights. With a set of poorly-initialized weights you may have a hundred of generations cannot pass the first tunnel. Therefore, `shitCount` counts these aren't-so-smart generations and if it hits a constant, say, 20, it will set `regenerateFlag` to `True` where the next generation will operate on a set of newly-initialized weights.
 * Reduced complexity. The structure looks more intuitive. But the network's universality is also reduced, for that certain functions are tailored.
 * Prints out each generation's weights matrix and the randomly generated middle position of the pipe.
 * MATLAB is a great tool, but its graphics sucks when like 50 birds are hanging around simultaneously, which makes the speed control panel actually useless.
