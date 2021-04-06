@@ -2,6 +2,7 @@
 Inspired by [xviniette](https://github.com/xviniette/FlappyLearning). Flappy Birds now learn and fly in MATLAB. [Demo(bilibili.com)](https://www.bilibili.com/video/BV1xy4y1i73s/)  
 
 ![alt tag](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Screenshot.png)  
+
 This is the final assignment of my freshman year's course ***Introduction to Computers***, whose requirement is ***Using Matlab and Matlab only***. When I first searched for relevant projects, there is only "[Flappy Bird Game in Matlab](https://github.com/mingjingz/flappybird-for-matlab)", "[Neuroevolution in Matlab](https://github.com/matthp/NeuroEvolution)", or "[FlappyLearning in JS](https://github.com/xviniette/FlappyLearning)". What I propose is "[FlappyLearning using Neuroevolution in MATLAB](https://github.com/lincolnqiu/FlappyLearning-MATLAB)". Very well, time to sweat.  
 The project features certain improvements, but it generally converges slower than [xviniette](https://github.com/xviniette/FlappyLearning)'s for some unknown reason. Nonetheless, it does the trick.  
 
