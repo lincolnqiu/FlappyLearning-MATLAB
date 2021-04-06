@@ -15,18 +15,11 @@ Runs well on R2020b.
 * Prints out each generation's weights matrix and the randomly generated middle position of the pipe.
 * MATLAB is a great tool, but its graphics sucks when like 50 birds are hanging around simultaneously, which makes the speed control panel actually useless.
 
-## Reference
-Without these my homework wouldn't have been possible. Massive Appreciation.
-* [xviniette - FlappyLearning](https://github.com/xviniette/FlappyLearning)
-* [mingjingz - flappybird-for-matlab](https://github.com/mingjingz/flappybird-for-matlab)
-* [3blue1brown - But what is a Neural Network?](https://youtu.be/aircAruvnKk)
-* [MorvanZhou - Evolutionary-Algorithm](https://github.com/MorvanZhou/Evolutionary-Algorithm)  
-* [机器学习玩转Flappy Bird全书：六大流派从原理到代码](https://zhuanlan.zhihu.com/p/25719115)  
-
 ## Deficiency
 * `NeuroEvo.elitism`, `NeuroEvo.randomBehaviour` should be dynamic and alter with respect to the derivative of `Game.maxScore`. Probably.
 * Input parameters could be improved. Maybe adding the distance between the bird and the next pipe will lead to a faster convergence process.
 ![alt tag](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Illustration.png)
+(Image in courtesy of[xviniette - FlappyLearning](https://github.com/xviniette/FlappyLearning))
 
 ## Random Thoughts
 The essence of all this is that we abstracted a model from reality(Natural Selection), then conversely what enlightenment can this model tell us?
@@ -36,3 +29,12 @@ I reckon that how a generation of birds fail to pass the next tunnel insinuate t
 ## Author
 Qiu Yining, a freshman majoring in mathematics *@Shanghai University of Finance and Economics*.  
 Personal Mailbox: *linconqiu@qq.com*
+
+
+## Reference
+Without these my homework wouldn't have been possible. Massive Appreciation.
+* [xviniette - FlappyLearning](https://github.com/xviniette/FlappyLearning)
+* [mingjingz - flappybird-for-matlab](https://github.com/mingjingz/flappybird-for-matlab)
+* [3blue1brown - But what is a Neural Network?](https://youtu.be/aircAruvnKk)
+* [MorvanZhou - Evolutionary-Algorithm](https://github.com/MorvanZhou/Evolutionary-Algorithm)  
+* [机器学习玩转Flappy Bird全书：六大流派从原理到代码](https://zhuanlan.zhihu.com/p/25719115)  
