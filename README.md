@@ -24,9 +24,9 @@ Without these my homework wouldn't have been possible. Massive Appreciation.
 * [机器学习玩转Flappy Bird全书：六大流派从原理到代码](https://zhuanlan.zhihu.com/p/25719115)  
 
 ## Deficiency
+* `NeuroEvo.elitism`, `NeuroEvo.randomBehaviour` should be dynamic and alter with respect to the derivative of `Game.maxScore`. Probably.
 * Input parameters could be improved. Maybe adding the distance between the bird and the next pipe will lead to a faster convergence process.
 ![alt tag](https://github.com/lincolnqiu/FlappyLearning-MATLAB/blob/main/Illustration.png)
-* `NeuroEvo.elitism`, `NeuroEvo.randomBehaviour` should be dynamic and alter with respect to the derivative of `Game.maxScore`. Probably.
 
 ## Random Thoughts
 The essence of all this is that we abstracted a model from reality(Natural Selection), then conversely what enlightenment can this model tell us?
